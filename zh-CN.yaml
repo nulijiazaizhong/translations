@@ -213,6 +213,23 @@ Translations:
   frontend.login.successful: "登录成功！"
   frontend.login.successful_description: "使用左下角用户名下的菜单进行注销。"
 
+  # MARK: Tutorials
+
+  tutorials.main.window_controls: "这些主要用于窗口控制，最左侧的按钮有一些额外的功能，当你把鼠标悬停在上方时能看到相关提示！（完成新手引导后可用）"
+  tutorials.main.slide_area: "您可以通过拖动此区域来移动窗口。"
+  tutorials.main.sidebar_collapse: '您可以单击侧边栏将其折叠并进入“全屏”模式。'
+  tutorials.main.sidebar: "您可以使用侧边栏轻松的浏览不同的应用程序页面。有些有更多地提示来帮助您习惯ETS2LA！"
+  tutorials.main.settings: "现在您应该前往设置页面！(单击设置完成更多新手引导)"
+  tutorials.settings.static: "整个程序的所有设置都在这里"
+  tutorials.settings.global: "现在您看到的是全局设置。这些设置包括 UI 设置和一些其他的功能设置。"
+  tutorials.settings.plugin: "这里是一些插件的设置页面。您可以在这里修改任意插件的设置。"
+  tutorials.settings.sdk: "最后一步，您应该打开 SDK 设置页面，并安装 SDK（如果尚未安装）。请注意，如果您使用过 V1 版本，则应在此页面上重新安装 SDK（译者自述：我是建议都重新安装或检查一下SDK是否安装成功）。"
+  tutorials.plugins.options: "您可以使用搜索功能来查找您想要的内容。"
+  tutorials.plugins.tags: "默认情况下，已选择 Base 标签。 您可以通过点击插件列表中的标签或展开下拉菜单来添加更多筛选条件。"
+  tutorials.plugins.clear: '使用此按钮可删除当前所有的搜索历史。'
+  tutorials.plugins.enable_all: "您可以通过单击此复选框来启用/禁用所有当前可见的插件。"
+  tutorials.plugins.list: '启动游戏之前，您可以启用除“Data Collection End-To-End Driving”和“Navigation Detection”插件之外的所有插件。'
+  
   # MARK: About
 
   about.about: "关于本软件"
